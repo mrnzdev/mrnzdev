@@ -8,6 +8,7 @@
 
 ---
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b4a7bf0a49b0be0ed38892?variant=dark)](https://roadmap.sh)
+
 ***Contact me at [LinkedIn](https://www.linkedin.com/in/mrnzdev/)***
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b4a7bf0a49b0be0ed38892?variant=dark)](https://roadmap.sh)
