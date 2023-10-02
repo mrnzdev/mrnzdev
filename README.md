@@ -11,8 +11,4 @@ Front-End Developer specialized in React. I love building interactive and effici
 - **Tools**: Git, Webpack, ESLint, Jest
 - **Additional Skills**: Responsive Design, RESTful APIs, GraphQL
 
-## 📊 GitHub Stats
-
-[![Fermín Martínez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnzdev&show_icons=true&hide=prs)](https://github.com/mrnzdev/github-readme-stats)
-
 ---
