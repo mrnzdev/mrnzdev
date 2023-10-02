@@ -13,6 +13,6 @@ Front-End Developer specialized in React. I love building interactive and effici
 
 ## 📊 GitHub Stats
 
-[![Fermín Martínez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FerminMartinez&show_icons=true&hide=prs)](https://github.com/FerminMartinez/github-readme-stats)
+[![Fermín Martínez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnzdev&show_icons=true&hide=prs)](https://github.com/mrnzdev/github-readme-stats)
 
 ---
