@@ -8,7 +8,3 @@ Front-End Developer specialized in React. I love building interactive and effici
 
 - **Programming Languages**: JavaScript, TypeScript
 - **Libraries and Frameworks**: React, Redux, Next.js
-- **Tools**: Git, Webpack, ESLint, Jest
-- **Additional Skills**: Responsive Design, RESTful APIs, GraphQL
-
----
