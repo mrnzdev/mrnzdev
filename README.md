@@ -1,10 +1,27 @@
-# Hello, I'm Fermín Martínez! 👋
+![Header Image](https://i.imgur.com/JCCkoEl.png)
 
-## 🚀 About Me
+## 👋 Hi there!
 
-Front-End Developer specialized in React. I love building interactive and efficient web applications. Always eager to learn something new and ready for challenges.
+I'm Fermín Martínez, a passionate React Front-End Web Developer with experience in building high-quality web applications. Welcome to my GitHub profile!
 
-## 🛠 Technical Skills
+## 🛠️ Technologies & Tools
 
-- **Programming Languages**: JavaScript, TypeScript
-- **Libraries and Frameworks**: React, Redux, Next.js
+- **Front-end Frameworks:** React, Next.js
+- **Languages:** JavaScript, TypeScript
+- **Styling:** Tailwind CSS
+- **UI Library:** shadcn/ui
+- **Version Control:** Git, GitHub
+
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnzdev)](https://github.com/mrnzdev/github-readme-stats)
+
+## 📬 Let's Connect!
+
+- 🔗 [Portfolio](https://mrnz.dev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mrnzdev/)
+- 📧 Email: contact@mrnz.dev
+
+---
+
+⭐️ From [Fermín Martínez](https://github.com/mrnzdev)
