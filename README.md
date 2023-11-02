@@ -21,7 +21,3 @@ I'm Fermín Martínez, a passionate React Front-End Web Developer with experienc
 - 🔗 [Portfolio](https://mrnz.dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mrnzdev/)
 - 📧 Email: contact@mrnz.dev
-
----
-
-⭐️ From [Fermín Martínez](https://github.com/mrnzdev)
