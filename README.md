@@ -1,3 +1,2 @@
-![mrnz icon](https://raw.githubusercontent.com/mrnzdev/mrnzdev/main/github%20background.png)
 # Software Developer
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrnzdev)](https://github.com/ryo-ma/github-profile-trophy)
+[![mrnz GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnz&theme=graywhite)](https://github.com/mrnzdev/github-readme-stats)
