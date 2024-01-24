@@ -1,5 +1,3 @@
-# Software Developer & CSE Student
-
 ### Currently Working On
 
 - [Neat Mail](https://neatmail.xyz) - Gmail service with a simple and minimalist approach.
