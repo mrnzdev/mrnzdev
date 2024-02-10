@@ -1,4 +1,4 @@
-### Software Developer & CS Engineering Student
+### Frontend Developer & CS Engineering Student
 
 ### Currently working on:
 
